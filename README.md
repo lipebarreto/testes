@@ -118,9 +118,6 @@
     </audio>
   </div>
 
-  <div class="spotify" style="margin-top: 20px;">
-    <a href="https://open.spotify.com/track/3mjYjA17Y4NvUtP7IvCunP" target="_blank">🎵 Ouvir "Os Anjos Cantam" no Spotify</a>
-  </div>
 
   <footer>
     💌 Com amor, Filipe
