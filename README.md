@@ -113,13 +113,11 @@
 
   <div class="audio-controls">
     <audio autoplay loop>
-       <audio controls>
-      <source src="os-anjos-cantam.mp3" type="audio/mpeg">
-       </audio>
-  
-   
-   
+      <source src="https://www.bensound.com/bensound-music/bensound-sunny.mp3" type="audio/mpeg">
+      Seu navegador não suporta o áudio.
+    </audio>
   </div>
+
 
 
   <footer>
