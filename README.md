@@ -111,12 +111,7 @@
     <div class="photo"><img src="https://drive.google.com/thumbnail?id=1vfsckbanrEQbpx7HgnW_9XYV9_n9Nw3O&sz=w800"><div class="caption">20-11-2024</div></div>
   </div>
 
-  <div class="audio-controls">
-    <audio autoplay loop>
-      <source src="https://www.bensound.com/bensound-music/bensound-sunny.mp3" type="audio/mpeg">
-      Seu navegador não suporta o áudio.
-    </audio>
-  </div>
+
 
 
 
